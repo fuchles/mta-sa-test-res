@@ -1,0 +1,4 @@
+<meta>
+    <script src="client.lua" type="client" />
+    <script src="vec3.lua" type="shared" />
+</meta>
